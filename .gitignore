@@ -1,0 +1,11 @@
+# 发布包与临时文件不进仓库
+*.zip
+*.exe
+*.7z
+*.rar
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
