@@ -46,19 +46,15 @@ Windows 上的批量图片处理 + PDF 工具箱。一个 exe，14 个功能，�
 
 ## 下载
 
-| 版本 | 系统 | 大小 |
-|---|---|---|
-| **v3.10** | Windows 10 / 11 · 64 位 | 93.9 MB |
-
-- **蓝奏云**（推荐，国内直连、无需登录）：https://rsfxz.lanzoum.com/b01i60gbuj
+- **蓝奏云**（国内直连、无需登录）：https://rsfxz.lanzoum.com/b01i60gbuj
   提取码 `0000`
-- **GitHub Releases**：版本更新说明与历史记录（安装包统一放蓝奏云，不走 GitHub）
+- **版本**：下载页里最新的那个文件即当前版本，文件名里的 `v3.x` 就是版本号，
+  改了什么见 [CHANGELOG.md](CHANGELOG.md)
+- **大小**：约 94 MB，解压约 240 MB
 
-校验值：
+安装包统一放蓝奏云，不走 GitHub（这里只放说明和截图）。
 
-```
-SHA256  ec4b698aa093c6a87babb4c65116aa0b2b12e5eb2f72ab60748cf04d652fc2c3
-```
+需要核对文件完整性，找我要当期 SHA256 即可。
 
 ---
 
